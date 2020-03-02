@@ -5,5 +5,5 @@
 ### Build image
 
 ```
-docker build . -t acornsaustralia/docker-base:bash-5.0.11-alpine3
+docker build . -t satodo/bash-alpine:5.0.11-alpine3
 ```
